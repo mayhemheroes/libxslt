@@ -1,0 +1,4 @@
+project: PROJECT
+target: xpath
+cmds:
+- cmd: /out/xpath
